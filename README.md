@@ -12,3 +12,28 @@ Literature Survey :-
 2) Tag Clustering algorithm LMMSK - Jing Yang and Jun Wang
 3) Neural Caption Generation for news images - Vishwash Batra, Yulan He, George Vogiatis
 4) Web 2.0 and Folksonomy - Mohmedhanif Nashipudi, and a few more.
+
+For Python Code Working :-
+1) Clone /Download the code
+2) Follow Readme inside Predict folder.
+3) Download saved_model folder from the link given below and add the folder inside predict folder
+4) Run python code
+
+For Total Working :-
+1) Run the python code as described above
+2) Run Command in cmd - pip install flask
+3) Inside the folder(Image Caption Generator) open cmd , and Run Command- python flaskk.py and go to localhost.
+
+NOTE : TAKE CARE OF VERSIONS OF LIBRARIES USED IN PROJECT , ELSE IT CAN CREATE ERROR
+
+VERSIONS:
+
+numpy 1.18.5, 
+pandas - 1.1.4, 
+tensorflow - 2.3.1, 
+keras - 2.4.3, 
+python - 3.7.6,
+
+SAVED_MODEL:
+
+https://drive.google.com/drive/folders/1lHYyrJu3vicEjflaOQE9L-T6Q8a6P_H0?usp=sharing
