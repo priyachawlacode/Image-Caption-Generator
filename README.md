@@ -15,9 +15,10 @@ Literature Survey :-
 
 For Python Code Working :-
 1) Clone /Download the code
-2) Follow Readme inside Predict folder.
-3) Download saved_model folder from the link given below and add the folder inside predict folder
-4) Run python code
+2) Change all the paths.
+3) Download trainedmodel1500.h5 from the link given below and add the folder inside predict folder
+4) Download ResNet50.h5 from the link given below and add it in same place as predict.py.
+5) Run python code
 
 For Total Working :-
 1) Run the python code as described above
@@ -34,6 +35,6 @@ tensorflow - 2.3.1,
 keras - 2.4.3, 
 python - 3.7.6,
 
-SAVED_MODEL:
+trainedmodel1500.h5 , ResNet50.h5 :
 
-https://drive.google.com/drive/folders/1lHYyrJu3vicEjflaOQE9L-T6Q8a6P_H0?usp=sharing
+https://drive.google.com/drive/folders/1lHYyrJu3vicEjflaOQE9L-T6Q8a6P_H0
