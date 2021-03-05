@@ -40,7 +40,7 @@ trainedmodel1500.h5 , ResNet50.h5 :
 https://drive.google.com/drive/folders/1lHYyrJu3vicEjflaOQE9L-T6Q8a6P_H0
 
 # Screenshots:
-![Result10](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result10.PNG)
-![Result12](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result12.PNG)
-![Result14](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result14.PNG)
-![Result19](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result19.PNG)
+![Result10](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result10.PNG width=350)
+![Result12](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result12.PNG width=350)
+![Result14](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result14.PNG width=350)
+![Result19](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result19.PNG width=350)
