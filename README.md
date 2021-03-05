@@ -41,3 +41,6 @@ https://drive.google.com/drive/folders/1lHYyrJu3vicEjflaOQE9L-T6Q8a6P_H0
 
 # Screenshots:
 ![Result10](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result10.PNG)
+![Result12](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result12.PNG)
+![Result14](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result14.PNG)
+![Result19](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result19.PNG)
