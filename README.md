@@ -38,3 +38,6 @@ python - 3.7.6,
 trainedmodel1500.h5 , ResNet50.h5 :
 
 https://drive.google.com/drive/folders/1lHYyrJu3vicEjflaOQE9L-T6Q8a6P_H0
+
+# Screenshots:
+![SS1](https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result10.PNG = 300x400)
