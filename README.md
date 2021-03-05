@@ -41,8 +41,8 @@ https://drive.google.com/drive/folders/1lHYyrJu3vicEjflaOQE9L-T6Q8a6P_H0
 
 # Screenshots:
 <div float="left">
-<img src="https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result10.PNG" width="250" height="250">
+<img src="https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result10.PNG" width="200" height="250">
 <img src="https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result12.PNG" width="250" height="250">
 <img src="https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result14.PNG" width="250" height="250">
-<img src="https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result19.PNG" width="250" height="250">
+<img src="https://github.com/priyachawlacode/Image-Caption-Generator/blob/master/Results/Result19.PNG" width="200" height="250">
 </div>
